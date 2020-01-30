@@ -29,3 +29,21 @@ git commit
 
 this site was built using [GitHub Pages](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
+## Lists
+- George Washington
+- John Adams
+- Thomas Jefferson
+
+1. Alex
+2. Jack
+3. Kim
+
+## list item
+1. First list item
+   - First nested list item
+     - Second nested list item 
+     
+## Task lists
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
