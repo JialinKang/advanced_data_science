@@ -47,3 +47,7 @@ this site was built using [GitHub Pages](https://help.github.com/en/github/writi
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
+
+
+## Using emoji
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
